@@ -1,7 +1,7 @@
 # Data-Analysis-of-GHG-Emissions-and-WRI
 
 ## Introduction
-I chose this project for my Data Science course at LUMS in Spring 2022. 
+I chose this project for my Data Science course at LUMS in Fall 2022. 
 
 This notebook explores the relationship between greenhouse gas emissions, climate risk, and socioeconomic factors at a country level. The analysis aims to understand how emissions impact a country's vulnerability to climate-related risks, utilizing machine learning techniques and causal inference methods. Below is an overview of the notebook contents:
 

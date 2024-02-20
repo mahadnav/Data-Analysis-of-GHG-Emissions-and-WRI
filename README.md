@@ -1,4 +1,4 @@
-# Data-Analysis-of-GHG-Emissions-and-WRI
+# Data Analysis of GHG Emissions and WRI
 
 ## Introduction
 I chose this project for my Data Science course at LUMS in Fall 2022. 

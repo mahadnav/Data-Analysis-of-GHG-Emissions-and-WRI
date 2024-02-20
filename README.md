@@ -43,7 +43,7 @@ Three datasets are imported:
 ### 5.1 Analysis
 - Causal inference analysis is conducted to understand the impact of CO2 and Methane emissions per capita on WRI.
 - Treatment variables are created based on emission levels, and the Average Treatment Effect (ATE) is calculated.
-- Findings suggest a correlation between higher per capita emissions and lower WRI, possibly due to socioeconomic factors.
+- Findings suggest that higher GHG emissions do not translate to high WRI. A correlation between higher per capita emissions and lower WRI is found, possibly due to socioeconomic factors.
 
 ## Conclusion
 This notebook provides detailed explanations, code snippets, and visualizations to explore the relationship between emissions and climate risk at a country level. The analysis offers insights into the complex interplay between environmental factors, socioeconomic conditions, and vulnerability to climate-related risks. Further research could delve deeper into causal mechanisms and policy implications arising from these findings.
